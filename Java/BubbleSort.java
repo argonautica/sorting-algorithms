@@ -1,5 +1,5 @@
 
-public class ImprovedBubbleSort {
+public class BubbleSort {
     //verifies if the arry is already sorted
     //Thus, the best time complexity is improved from O(n^2) to O(n)
     static void improvedBubbleSort(int[] arr) {
