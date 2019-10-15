@@ -1,5 +1,5 @@
 # Sorting Algorithms
-_Sorting algorithms implemented in different languages (for hacktoberfest 😃)._
+_Sorting algorithms implemented in different languages (for hacktoberfest 😃). This repository is open to everyone. Feel free to add any sorting algorithms. The instructions for how to contribute to this repo are down below._
 
 ## List of Algorithms ⌨️
 * [C++](#c++)
