@@ -50,6 +50,7 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 
 ### Python
 - [Bogo Sort](Python/BogoSort.py)
+- [Bubble Sort](Python/BubbleSort.py)
 - [Bucket Sort](Python/BucketSort.py)
 - [Gnome Sort](Python/GnomeSort.py)
 - [Insertion Sort](Python/InsertionSort.py)
