@@ -29,6 +29,7 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 - [Radix Sort](Go/RadixSort.go)
 
 ### Java
+- [Bead Sort](Java/BeadSort.java)
 - [Bogo Sort](Java/BogoSort.java)
 - [Bubble Sort](Java/BubbleSort.java)
 - [Counting Sort](Java/Counting%20Sort.java)
