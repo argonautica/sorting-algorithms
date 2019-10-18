@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class GnomeSort {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         int[] arr = {1,6,23,5,8,2,43,35};
         System.out.println(Arrays.toString(arr));
         gnomeSort(arr);
@@ -12,7 +12,7 @@ public class GnomeSort {
     }
 
 
-    private static int[] gnomeSort(int[] arr){
+    private static void gnomeSort(int[] arr){
         int pos = 0;
         int size = arr.length;
         while(pos < size){
@@ -24,7 +24,6 @@ public class GnomeSort {
                 pos--;
             }
         }
-        return arr;
     }
 
     private static void swap(int[] arr, int p1, int p2){
