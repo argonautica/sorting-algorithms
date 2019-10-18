@@ -39,6 +39,7 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 - [Radix Sort](Java/RadixSort.java)
 - [Selection Sort](Java/SelectionSort.java)
 - [Shell Sort](Java/ShellSort.java)
+- [Tim Sort](Java/TimSort.java)
 
 ### Javascript
 - [Heap Sort](Javascript/HeapSort.js)
