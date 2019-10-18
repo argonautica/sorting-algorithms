@@ -18,6 +18,7 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 - [Selection Sort](C++/SelctionSort.cpp)
 - [Shell Sort](C++/ShellSort.cpp)
 - [Cycle Sort](C++/cycleSort.cpp)
+- [Tree Sort](C++/treeSort.cpp) 
 ### C
 - [Bubble Sort](C/BubbleSort.c)
 - [Insertion Sort](C/InsertionSort.c)
