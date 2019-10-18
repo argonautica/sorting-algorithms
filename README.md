@@ -25,6 +25,9 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 - [Quick Sort](C/QuickSort.c)
 - [Selection Sort](C/SelectionSort.c)
 
+### C#
+- [Bubble Sort](C#/BubbleSort.cs)
+
 ### Go
 - [Radix Sort](Go/RadixSort.go)
 
