@@ -1,9 +1,12 @@
 # Sorting Algorithms
-_Sorting algorithms implemented in different languages (for hacktoberfest 😃). This repository is open to everyone. Feel free to add any sorting algorithms. The instructions for how to contribute to this repo are down below._
+_Sorting algorithms implemented in different languages (for hacktoberfest_ 😃_). This repository is open to everyone. Feel free to add any sorting algorithms. The instructions for how to contribute to this repo are down below._
 
 ## List of Algorithms ⌨️
-* [C++](#c++)
+
+## Language Directory
 * [C](#c)
+* [C++](#c++)
+* [C#](#c#)
 * [Go](#go)
 * [Java](#java)
 * [Javascript](#javascript)
@@ -46,11 +49,11 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 - [Tim Sort](Java/TimSort.java)
 
 ### Javascript
+- [Bubble Sort](Javascript/bubbleSort.js)
 - [Heap Sort](Javascript/HeapSort.js)
 - [Insertion Sort](Javascript/Insertionsort.js)
 - [Merge Sort](Javascript/MergeSort.js)
 - [Quick Sort](Javascript/Quicksort.js)
-- [Bubble Sort](Javascript/bubbleSort.js)
 - [Selection Sort](Javascript/selectionSort.js)
 
 ### Python
