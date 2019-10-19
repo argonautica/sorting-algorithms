@@ -30,6 +30,12 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 
 ### C#
 - [Bubble Sort](C#/BubbleSort.cs)
+- [Heap Sort](C#/HeapSort.cs)
+- [Insertion Sort](C#/InsertionSort.cs)
+- [Merge Sort](C#/MergeSort.cs)
+- [Quick Sort](C#/QuickSort.cs)
+- [Selection Sort](C#/SelectionSort.cs)
+- [Shell Sort](C#/ShellSort.cs)
 
 ### Go
 - [Radix Sort](Go/RadixSort.go)
