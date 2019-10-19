@@ -7,6 +7,7 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 * [Go](#go)
 * [Java](#java)
 * [Javascript](#javascript)
+* [Kotlin](#kotlin)
 * [Python](#python)
 
 ### C++
@@ -15,12 +16,18 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 - [Insertion Sort](C++/InsertionSort.cpp)
 - [Merge Sort](C++/MergeSort.cpp)
 - [Quick Sort](C++/QuickSort.cpp)
+
 - [RadixSort.cpp](C++/RadixSort.cpp)
+
+- [Radix Sort](C++/RadixSort.cpp)
+ 
 - [Selection Sort](C++/SelctionSort.cpp)
 - [Shell Sort](C++/ShellSort.cpp)
-
+- [Cycle Sort](C++/cycleSort.cpp)
+- [Tree Sort](C++/treeSort.cpp) 
 ### C
 - [Bubble Sort](C/BubbleSort.c)
+- [Gnome Sort](C/gnomesort.c)
 - [Insertion Sort](C/InsertionSort.c)
 - [Merge Sort](C/MergeSort.c)
 - [Quick Sort](C/QuickSort.c)
@@ -29,6 +36,12 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 
 ### C#
 - [Bubble Sort](C#/BubbleSort.cs)
+- [Heap Sort](C#/HeapSort.cs)
+- [Insertion Sort](C#/InsertionSort.cs)
+- [Merge Sort](C#/MergeSort.cs)
+- [Quick Sort](C#/QuickSort.cs)
+- [Selection Sort](C#/SelectionSort.cs)
+- [Shell Sort](C#/ShellSort.cs)
 
 ### Go
 - [Radix Sort](Go/RadixSort.go)
@@ -54,11 +67,13 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 - [Quick Sort](Javascript/Quicksort.js)
 - [RadixSort.js](Javascript/RadixSort.js)
 - [Bubble Sort](Javascript/bubbleSort.js)
+- [Radix Sort](Javascript/RadixSort.js)
 - [Selection Sort](Javascript/selectionSort.js)
 
 ### Kotlin
 - [BubbleSort.kt](Kotlin/BubbleSort.kt)
 - [selectionSort.kt](Kotlin/selectionSort.kt)
+
 
 ### Python
 - [Bogo Sort](Python/BogoSort.py)
