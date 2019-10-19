@@ -7,6 +7,7 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 * [Go](#go)
 * [Java](#java)
 * [Javascript](#javascript)
+* [Kotlin](#kotlin)
 * [Python](#python)
 
 ### C++
@@ -15,11 +16,13 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 - [Insertion Sort](C++/InsertionSort.cpp)
 - [Merge Sort](C++/MergeSort.cpp)
 - [Quick Sort](C++/QuickSort.cpp)
+- [Radix Sort](C++/RadixSort.cpp)
 - [Selection Sort](C++/SelctionSort.cpp)
 - [Shell Sort](C++/ShellSort.cpp)
 
 ### C
 - [Bubble Sort](C/BubbleSort.c)
+- [Gnome Sort](C/gnomesort.c)
 - [Insertion Sort](C/InsertionSort.c)
 - [Merge Sort](C/MergeSort.c)
 - [Quick Sort](C/QuickSort.c)
@@ -51,7 +54,12 @@ _Sorting algorithms implemented in different languages (for hacktoberfest 😃).
 - [Merge Sort](Javascript/MergeSort.js)
 - [Quick Sort](Javascript/Quicksort.js)
 - [Bubble Sort](Javascript/bubbleSort.js)
+- [Radix Sort](Javascript/RadixSort.js)
 - [Selection Sort](Javascript/selectionSort.js)
+
+### Kotlin
+- [Bubble Sort](Kotlin/BubbleSort.kt)
+- [Selection Sort](Kotlin/selectionSort.kt)
 
 ### Python
 - [Bogo Sort](Python/BogoSort.py)
