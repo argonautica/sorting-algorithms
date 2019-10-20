@@ -2,7 +2,6 @@
 _Sorting algorithms implemented in different languages (for hacktoberfest_ 😃_). This repository is open to everyone. Feel free to add any sorting algorithms. The instructions for how to contribute to this repo are down below._
 
 ## List of Algorithms ⌨️
-
 | Language | Algorithms |
 |----------|------------|
 | C++ | [`Bubble Sort`](C++/BubbleSort.cpp) [`Heap Sort`](C++/HeapSort.cpp) [`Insertion Sort`](C++/InsertionSort.cpp) [`Merge Sort`](C++/MergeSort.cpp) <br> [`Quick Sort`](C++/QuickSort.cpp) [`Selection Sort`](C++/SelctionSort.cpp) [`Shell Sort`](C++/ShellSort.cpp) |
