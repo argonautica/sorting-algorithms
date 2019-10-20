@@ -5,7 +5,7 @@ _Sorting algorithms implemented in different languages (for hacktoberfest_ 😃_
 
 | Language | Algorithms |
 |----------|------------|
-| C++ | [`Bubble Sort`](C++/BubbleSort.cpp) [`Heap Sort`](C++/HeapSort.cpp) [`Insertion Sort`](C++/InsertionSort.cpp) [`Merge Sort`](C++/MergeSort.cpp) <br> [`Quick Sort`](C++/QuickSort.cpp) [`Selection Sort`](C++/SelctionSort.cpp) [`Shell Sort`](C++/ShellSort.cpp) |
+| C++ | [`Interchange Sort`](C++/InterchangeSort.cpp ) [`Bubble Sort`](C++/BubbleSort.cpp) [`Heap Sort`](C++/HeapSort.cpp) [`Insertion Sort`](C++/InsertionSort.cpp) [`Merge Sort`](C++/MergeSort.cpp) <br> [`Quick Sort`](C++/QuickSort.cpp) [`Selection Sort`](C++/SelctionSort.cpp) [`Shell Sort`](C++/ShellSort.cpp) |
 | C | [`Bubble Sort`](C/BubbleSort.c) [`Insertion Sort`](C/InsertionSort.c) [`Merge Sort`](C/MergeSort.c) <br> [`Quick Sort`](C/QuickSort.c) [`Selection Sort`](C/SelectionSort.c) |
 | C# | [`Bubble Sort`](C#/BubbleSort.cs) |
 | Go | [`Radix Sort`](Go/RadixSort.go) |
