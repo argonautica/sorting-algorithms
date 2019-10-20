@@ -4,8 +4,7 @@ _Sorting algorithms implemented in different languages (for hacktoberfest_ 😃_
 ## List of Algorithms ⌨️
 | Language | Algorithms |
 |----------|------------|
-| C++ | [`Interchange Sort`](C++/InterchangeSort.cpp ) [`Bubble Sort`](C++/BubbleSort.cpp) [`Heap Sort`](C++/HeapSort.cpp) <br> [`Insertion Sort`](C++/InsertionSort.cpp) [`Merge Sort`](C++/MergeSort.cpp) [`Quick Sort`](C++/QuickSort.cpp) <br> [`Selection Sort`](C++/SelctionSort.cpp) [`Shell Sort`](C++/ShellSort.cpp) [`Binary Insertion Sort`](C++/BinaryInsertionSort.cpp) <br> [`Bucket Sort`](C++/BucketSort.cpp) [`Cycle Sort`](C++/cycleSort.cpp) [`K Way Merge Sort`](C++/) <br> [`Radix Sort`](C++/RadixSort.cpp) [`Tree Sort`](C++/treeSort.cpp) [`K-Way Merge Sort`](C++/KWayMergeSort.cpp) |
-
+| C++ | [`Interchange Sort`](C++/InterchangeSort.cpp ) [`Bubble Sort`](C++/BubbleSort.cpp) [`Heap Sort`](C++/HeapSort.cpp) <br> [`Insertion Sort`](C++/InsertionSort.cpp) [`Merge Sort`](C++/MergeSort.cpp) [`Quick Sort`](C++/QuickSort.cpp) <br> [`Selection Sort`](C++/SelectionSort.cpp) [`Shell Sort`](C++/ShellSort.cpp) [`Binary Insertion Sort`](C++/BinaryInsertionSort.cpp) <br> [`Bucket Sort`](C++/BucketSort.cpp) [`Cycle Sort`](C++/cycleSort.cpp) [`K Way Merge Sort`](C++/) <br> [`Radix Sort`](C++/RadixSort.cpp) [`Tree Sort`](C++/treeSort.cpp) |
 | C | [`Bubble Sort`](C/BubbleSort.c) [`Insertion Sort`](C/InsertionSort.c) [`Merge Sort`](C/MergeSort.c) <br> [`Quick Sort`](C/QuickSort.c) [`Selection Sort`](C/SelectionSort.c)  [`Bubble Sort #2`](C/Bubble-Sort.c) <br>[`Gnome Sort`](C/gnomesort.c) [`Heap Sort`](C/heapsort.c) [`Radix Sort`](C/radix sort) <br> [`Tree Sort`](C/tree sort) |
 | C# | [`Bubble Sort`](C#/BubbleSort.cs) [`Binary Insertion Sort`](C#/BinaryInsertionSort.cs) [`Heap Sort`](C#/HeapSort.cs) <br> [`Insertion Sort`](C#/InsertionSort.cs) [`Merge Sort`](C#/MergeSort.cs) [`Quick Sort`](C#/QuickSort.cs) <br> [`Selection Sort`](C#/SelectionSort.cs) [`Shell Sort`](C#/ShellSort.cs) |
 | Go | [`Radix Sort`](Go/RadixSort.go) |
@@ -16,13 +15,5 @@ _Sorting algorithms implemented in different languages (for hacktoberfest_ 😃_
 
 ## Contributing 🖇️
 If there's an existing folder named with your chosen language, create a file for your new algorithm inside, calling it by the algorithm name and use the appropriate file extension i.e. `bubbleSort.js`. If there aren't any algorithms in your choice of language, feel free to start your own folder and place your implementations inside, and don't forget to update the [README.md](README.md)!
-
-### How to update the README with new file names
-1. Find the language you used
-2. Go to the last added algorithm
-3. Write the name of the algorithm you want to add surrounded by [\` and \`]: e.g. [\`Algorithm Name\`]
-4. Right after the algorithm name, add the path to the file you created surrounded by parentheses: e.g. (language name/algorithm file name)
-
-**Note:** since we list 3 algorithm names per row, after every third you should add a `<br>` tag
 
 ![title](https://hacktoberfest.digitalocean.com/assets/HF19_social-744d976f227e4aff6866443abcede8c651b309ec9c7c9f7410f5944f8e1299b9.png)
