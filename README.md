@@ -4,7 +4,7 @@ _Sorting algorithms implemented in different languages (for hacktoberfest_ 😃_
 ## List of Algorithms ⌨️
 | Language | Algorithms |
 |----------|------------|
-| Assembly | [`Bubble Sort`](Assembly/bubblesort.asm)
+| Assembly | [`Bubble Sort`](Assembly/bubblesort.asm) [`Quick Sort`](Assembly/quicksort.asm)
 | C++ | [`Interchange Sort`](C++/InterchangeSort.cpp ) [`Bubble Sort`](C++/BubbleSort.cpp) [`Heap Sort`](C++/HeapSort.cpp) <br> [`Insertion Sort`](C++/InsertionSort.cpp) [`Merge Sort`](C++/MergeSort.cpp) [`Quick Sort`](C++/QuickSort.cpp) <br> [`Selection Sort`](C++/SelectionSort.cpp) [`Shell Sort`](C++/ShellSort.cpp) [`Binary Insertion Sort`](C++/BinaryInsertionSort.cpp) <br> [`Bucket Sort`](C++/BucketSort.cpp) [`Cycle Sort`](C++/cycleSort.cpp) [`K Way Merge Sort`](C++/) <br> [`Radix Sort`](C++/RadixSort.cpp) [`Tree Sort`](C++/treeSort.cpp) |
 | C | [`Bubble Sort`](C/BubbleSort.c) [`Insertion Sort`](C/InsertionSort.c) [`Merge Sort`](C/MergeSort.c) <br> [`Quick Sort`](C/QuickSort.c) [`Selection Sort`](C/SelectionSort.c)  [`Bubble Sort #2`](C/Bubble-Sort.c) <br>[`Gnome Sort`](C/gnomesort.c) [`Heap Sort`](C/heapsort.c) [`Radix Sort`](C/radix sort) <br> [`Tree Sort`](C/tree sort) |
 | C# | [`Bubble Sort`](C#/BubbleSort.cs) [`Binary Insertion Sort`](C#/BinaryInsertionSort.cs) [`Heap Sort`](C#/HeapSort.cs) <br> [`Insertion Sort`](C#/InsertionSort.cs) [`Merge Sort`](C#/MergeSort.cs) [`Quick Sort`](C#/QuickSort.cs) <br> [`Selection Sort`](C#/SelectionSort.cs) [`Shell Sort`](C#/ShellSort.cs) |
