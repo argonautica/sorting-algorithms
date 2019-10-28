@@ -12,7 +12,7 @@ fun main(args : Array<String>) {
 }
 
 /**
- * Use Bogo sort to randomally swap two inputs and then check if the list is sorted
+ * Use Bogo sort to randomly swap two inputs and then check if the list is sorted
  */
 fun sort(input:IntArray):IntArray{
 
