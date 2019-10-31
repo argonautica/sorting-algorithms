@@ -1,8 +1,10 @@
 fun main(args : Array<String>) {
-    println(countingSort(intArrayOf(4, 4, -4, 1, 7, 9, 5, 37564, -54, 0, 100)))
+    val sorted  = countingSort(intArrayOf(4, 4, -4, 1, 7, 9, 5, 37564, -54, 0, 100))
+    sorted.forEach {
+        print("$it, ")
+    }
 }
 
-/***
  * Kotlin Counting Sort that allows for negative numbers.
  */
 fun countingSort(input:IntArray):IntArray{
