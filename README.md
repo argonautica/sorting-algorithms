@@ -1,5 +1,5 @@
 ﻿# Sorting Algorithms
-_Sorting algorithms implemented in different languages (for hacktoberfest_ 😃_). This repository is open to everyone. Feel free to add any sorting algorithms. The instructions for how to contribute to this repo are down below._
+_Sorting algorithms implemented in different languages (for hacktoberfest_ 😃). This repository is open to everyone. Feel free to add any sorting algorithms. The instructions for how to contribute to this repo are down below._
 
 ## List of Algorithms ⌨️
 | Language | Algorithms |
@@ -14,7 +14,7 @@ _Sorting algorithms implemented in different languages (for hacktoberfest_ 😃_
 | Lua | [`Quick Sort`](Lua/quicksort.lua)
 | Python | [`Bogo Sort`](Python/BogoSort.py) [`Bubble Sort`](Python/BubbleSort.py) [`Bucket Sort`](Python/BucketSort.py) <br> [`Gnome Sort`](Python/GnomeSort.py) [`Insertion Sort`](Python/InsertionSort.py) [`Merge Sort`](Python/MergeSort.py) <br> [`Quick Sort`](Python/QuickSort.py) [`Radix Sort`](Python/RadixSort.py) [`Selection Sort`](Python/SelectionSort.py) <br> [`Binary Insertion Sort`](Python/BinaryInsertionSort.py)  [`Heap Sort`](Python/heapSort.py) |
 | Ruby | [`Bubble Sort`](Ruby/bubble_sort.rb) [`Gnome Sort`](Ruby/gnome_sort.rb) [`Quick sort`](Ruby/quick_sort.rb) [`Selection sort`](Ruby/selection_sort.rb) [`Sort`](Ruby/sort.rb) [`Reverse sort`](Ruby/reverse.rb)
-| Kotlin |[`Merge Sort`](Kotlin/MergeSort.kt) [`Bubble Sort`](Kotlin/BubbleSort.kt) [`Selection Sort`](Kotlin/selectionSort.kt) <br> [`Heap Sort`](Kotlin/HeapSort.kt) [`Insertion Sort`](Kotlin/InsertionSort.kt) [`Quick Sort`](Kotlin/QuickSort.kt) [`Bogo Sort`](Kotlin/BogoSort.kt)[`Counting Sort`](Kotlin/CountingSort.kt [`Radix Sort`](Kotlin/RadixSort.kt [`Cocktail Shaker Sort`](Kotlin/CocktailShakerSort.kt)
+| Kotlin |[`Merge Sort`](Kotlin/MergeSort.kt) [`Bubble Sort`](Kotlin/BubbleSort.kt) [`Selection Sort`](Kotlin/selectionSort.kt) <br> [`Heap Sort`](Kotlin/HeapSort.kt) [`Insertion Sort`](Kotlin/InsertionSort.kt) [`Quick Sort`](Kotlin/QuickSort.kt) [`Bogo Sort`](Kotlin/BogoSort.kt)[`Counting Sort`](Kotlin/CountingSort.kt) [`Radix Sort`](Kotlin/RadixSort.kt) [`Cocktail Shaker Sort`](Kotlin/CocktailShakerSort.kt)
 | Elixir | [`Selection Sort`](Elixir/selectionSort.exs)
 
 ## Contributing 🖇️
