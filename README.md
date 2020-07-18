@@ -1,5 +1,16 @@
-﻿# Sorting Algorithms
+<p align="center">
+  <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/argonautica/sorting-algorithms" /></a>
+  
+  <img src="https://img.shields.io/github/stars/argonautica/sorting-algorithms.svg?label=Stars&style=flat" alt="Stars"/>
+   <a href="https://github.com/argonautica/sorting-algorithms/issues"><img src="https://img.shields.io/github/issues/argonautica/sorting-algorithms.svg" alt="GitHub issues"/></a>
+  <a href="https://github.com/argonautica/sorting-algorithms/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/argonautica/sortingalgorithms.svg" alt="GitHub issues"/></a> 
+</p>
+
+
+# Sorting Algorithms
 _Sorting algorithms implemented in different languages (for hacktoberfest_ 😃). This repository is open to everyone. Feel free to add any sorting algorithms. The instructions for how to contribute to this repo are down below._
+
 
 ## List of Algorithms ⌨️
 | Language | Algorithms |
