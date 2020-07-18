@@ -4,7 +4,7 @@
   
   <img src="https://img.shields.io/github/stars/argonautica/sorting-algorithms.svg?label=Stars&style=flat" alt="Stars"/>
    <a href="https://github.com/argonautica/sorting-algorithms/issues"><img src="https://img.shields.io/github/issues/argonautica/sorting-algorithms.svg" alt="GitHub issues"/></a>
-  <a href="https://github.com/argonautica/sorting-algorithms/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/argonautica/sortingalgorithms.svg" alt="GitHub issues"/></a> 
+  <a href="https://github.com/argonautica/sorting-algorithms/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/argonautica/sorting-algorithms.svg" alt="GitHub issues"/></a> 
 </p>
 
 
