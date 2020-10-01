@@ -1,38 +1,42 @@
 #include<iostream>
 using namespace std;
-void swapping(int &a, int &b) {         //swap the content of a and b
-   int temp;
+
+void swap(int &a, int &b) 
+{  int temp;
    temp = a;
    a = b;
    b = temp;
 }
-void display(int *array, int n) {
+
+void display(int *arr, int n) {
    for(int i = 0; i<n; i++)
-      cout << array[i] << " ";
+   {	cout << arr[i] << " ";
+   }
    cout << endl;
 }
-void selectionSort(int *array, int n) {
-   int i, j, imin;
-   for(i = 0; i<n-1; i++) {
-      imin = i;   //get index of minimum data
+
+void SelectionSort(int *arr, int n) {
+   int i, j, i_min;
+   for(i = 0; i<n-1; i++) 
+   {  i_min = i; 
       for(j = i+1; j<n; j++)
-         if(array[j] < array[imin])
-            imin = j;
-         //placing in correct position
-         swap(array[i], array[imin]);
+      {   if(arr[j] < arr[i_min])
+             i_min = j;
+         swap(arr[i], arr[i_min]);
+      }
    }
 }
 int main() {
    int n;
    cout << "Enter the number of elements: ";
    cin >> n;
-   int arr[n];           //create an array with given number of elements
+   int array[n];         
    cout << "Enter elements:" << endl;
    for(int i = 0; i<n; i++) {
-      cin >> arr[i];
+      cin >> array[i];
    }
   
-   selectionSort(arr, n);
+   SelectionSort(arr, n);
    cout << "Array after Sorting: ";
    display(arr, n);
 }
