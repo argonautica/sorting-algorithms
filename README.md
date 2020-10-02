@@ -27,6 +27,7 @@ _Sorting algorithms implemented in different languages (for hacktoberfest_ 😃)
 | Ruby | [`Bubble Sort`](Ruby/bubble_sort.rb) [`Gnome Sort`](Ruby/gnome_sort.rb) [`Quick sort`](Ruby/quick_sort.rb) [`Selection sort`](Ruby/selection_sort.rb) [`Sort`](Ruby/sort.rb) [`Reverse sort`](Ruby/reverse.rb)
 | Kotlin |[`Merge Sort`](Kotlin/MergeSort.kt) [`Bubble Sort`](Kotlin/BubbleSort.kt) [`Selection Sort`](Kotlin/selectionSort.kt) <br> [`Heap Sort`](Kotlin/HeapSort.kt) [`Insertion Sort`](Kotlin/InsertionSort.kt) [`Quick Sort`](Kotlin/QuickSort.kt) [`Bogo Sort`](Kotlin/BogoSort.kt)[`Counting Sort`](Kotlin/CountingSort.kt) [`Radix Sort`](Kotlin/RadixSort.kt) [`Cocktail Shaker Sort`](Kotlin/CocktailShakerSort.kt)
 | Elixir | [`Selection Sort`](Elixir/selectionSort.exs)
+| PHP | [`Bubble Sort`](PHP/Bubble_Sort.php) [`Insertion Sort`](PHP/Insertion_Sort.php) [`Merge Sort`](PHP/Merge_Sort.php) <br> [`Selection Sort`](PHP/Selection_Sort.php)<br> [`Heap Sort`](PHP/Heap_Sort.php) |
 
 ## Contributing 🖇️
 If there's an existing folder named with your chosen language, create a file for your new algorithm inside, calling it by the algorithm name and use the appropriate file extension i.e. `bubbleSort.js`. If there aren't any algorithms in your choice of language, feel free to start your own folder and place your implementations inside, and don't forget to update the [README.md](README.md)!
