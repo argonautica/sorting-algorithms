@@ -19,6 +19,6 @@ fun insertionsort(items:MutableList<Int>):List<Int>{
 fun main(args: Array<String>) {
     val names = mutableListOf(8, 3, 2, 7, 4)
     println(names)
-    var ordered = insertionsort(names)
+    val ordered = insertionsort(names)
     println(ordered)
 }
