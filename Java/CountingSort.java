@@ -1,7 +1,7 @@
 // Counting sort which takes negative numbers as well 
 import java.util.*; 
 
-class GFG 
+class CountingSort
 { 
 
 	static void countSort(int[] arr) 

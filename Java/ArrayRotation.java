@@ -1,6 +1,6 @@
 //Program to rotate array Arr[] of size n by d Elements to either left or right
 import  java.util.Scanner;
-class Array_Rotation
+class ArrayRotation
 {
     private static void leftRotate(int arr[], int n) 
     { 

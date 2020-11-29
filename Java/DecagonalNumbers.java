@@ -9,7 +9,7 @@
 import java.util.*; 
 import java.util.Scanner;
 
-class Decagonal_Numbers
+class DecagonalNumbers
 { 
     // To calculate decagonal number 
     static int decagonalnumber (int num)  
