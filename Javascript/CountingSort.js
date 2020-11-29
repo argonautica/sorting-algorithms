@@ -1,4 +1,4 @@
-function counntingSort(arr, min, max) {
+function countingSort(arr, min, max) {
   let i = min,
       j = 0,
       len = arr.length,
